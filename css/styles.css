@@ -117,3 +117,9 @@ pre:hover{
     padding: 3px;
     transition: all 0.3s ease 0s; 
 }
+
+footer{
+    font-family: Verdana;
+    font-style: italic;
+    ;
+}

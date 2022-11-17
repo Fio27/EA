@@ -112,6 +112,6 @@ pre:hover{
 
 .whatsapp:hover{
     box-shadow: 0 0 2px 1px rgba(56, 56, 56, 0.5);
-    padding: 3px;
+    padding: 5px;
     transition: all 0.3s ease 0s; 
 }

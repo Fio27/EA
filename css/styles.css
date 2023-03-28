@@ -8,6 +8,8 @@ header{
 
 body{
     text-align: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgb(2, 128, 128) 100%);
 }
 
 li, a{

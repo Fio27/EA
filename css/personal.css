@@ -92,6 +92,7 @@ li {
 }
 
 .card {
+  justify-content: center;
   position: relative;
   display: inline-block;
   border: none;

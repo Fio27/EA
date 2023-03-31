@@ -64,8 +64,8 @@ form{
     display: block;
     padding: 25px;
     border: 1px black solid;
-    width: 200px;
-    translate: 620px;
+    width: 400px;
+    translate: 520px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px;
 }
@@ -80,11 +80,15 @@ label{
     color: #ffff;
 }
 
+.label{
+    margin-bottom: 5px;
+}
+
 input{
-    translate: -20px 0;
+    width: 200px;
     border: none;
     border-radius: 3px;
-    padding: 5px 20px;
+    padding: 5px 40px;
     font-family: "Dosis", sans-serif;
 }
 
@@ -95,7 +99,6 @@ input:hover{
 
 .formParts .input #comentario:hover{
     padding: 40px;
-    translate: -40px 0;
     transition: all 0.5s;
 }
 

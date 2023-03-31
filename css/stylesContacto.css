@@ -72,6 +72,7 @@ form{
 
 .formParts{
     margin: 15px;
+    padding: 25px;
     place-content: center;
 }
 
@@ -80,6 +81,7 @@ label{
 }
 
 input{
+    translate: -20px 0;
     border: none;
     border-radius: 3px;
     padding: 5px 20px;
@@ -88,6 +90,12 @@ input{
 
 input:hover{
     border: 3px rgb(0, 0, 0) solid;
+    transition: all 0.5s;
+}
+
+.formParts .input #comentario:hover{
+    padding: 40px;
+    translate: -40px 0;
     transition: all 0.5s;
 }
 
